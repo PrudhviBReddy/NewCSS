@@ -1,0 +1,78 @@
+#mainbody{
+    background-color: beige;
+}
+
+#SRHHeading{
+    background-color: coral;
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+#SRHText{
+    color: chocolate;
+}
+
+    #SRHImage{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        filter: drop-shadow(10px 10px 10px gray);
+        background-color: darkorange;
+    }
+
+    #SRHImage{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #TRAText{
+        text-align: center;
+        filter: drop-shadow(10px 10px 10px gray);
+        
+    }
+    #TRAText{
+        text-align: center;
+        
+    }
+    #ABHIText{
+        text-align: center;
+       
+    }
+    #TRIText{
+        text-align: center;
+        
+    }
+    #REDDYText{
+        text-align: center;
+       
+    }
+    #SENText{
+        text-align: center; 
+    }
+    #SHAHText{
+        text-align: center;
+       
+    }
+    #PATText{
+        text-align: center;
+        
+    }
+    #BHUVText{
+        text-align: center;
+        
+    }
+    #SUNText{
+        text-align: center;
+        
+    }
+    #RAJText{
+        text-align: center;
+       
+    }
+    #DEVText{
+        text-align: center;
+    }
